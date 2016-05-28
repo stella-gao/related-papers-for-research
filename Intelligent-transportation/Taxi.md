@@ -8,6 +8,16 @@ Estimating Taxi Demand-Supply Level using Taxi Trajectory Data Stream
 TOGO CABS-An Android Phone Cab Reservation Application
 
 
+T-Share: A Large-Scale Dynamic Taxi ridesharing Service
+
+
+Where to Find My Next Passenger?
+
+
+A Game Theoretic Approach for the Taxi Scheduling Problem with Street Hailing
+
+
+
 
 
 
