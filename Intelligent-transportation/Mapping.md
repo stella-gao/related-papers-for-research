@@ -44,6 +44,15 @@ Energy-Efficient Trajectory Tracking for Mobile Devices
 GreenGPS: A Participatory Sensing Fuel-Efficient Maps Application
 
 
+PowerSpy: Location Tracking using Mobile Device Power Analysis
+
+
+Travel Time Estimation of a Path using Sparse Trajectories
+
+
+
+
+
 
 
 
