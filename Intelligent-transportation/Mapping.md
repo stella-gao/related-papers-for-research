@@ -50,6 +50,8 @@ PowerSpy: Location Tracking using Mobile Device Power Analysis
 Travel Time Estimation of a Path using Sparse Trajectories
 
 
+Mining Interesting Locations and Travel Sequences from GPS Trajectories
+
 
 
 
