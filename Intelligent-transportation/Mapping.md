@@ -35,6 +35,12 @@ Learning and inferring transportation routines
 Heuristics & Usability of Virtual Attack Points for Pedestrian Navigation: User Study Using Paper-Prototyping
 
 
+CrowdAtlas: Self-Updating Maps for Cloud and Personal Use
+
+
+
+
+
 
 
 
