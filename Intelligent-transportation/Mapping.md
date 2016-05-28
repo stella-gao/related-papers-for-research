@@ -41,6 +41,9 @@ CrowdAtlas: Self-Updating Maps for Cloud and Personal Use
 Energy-Efficient Trajectory Tracking for Mobile Devices
 
 
+GreenGPS: A Participatory Sensing Fuel-Efficient Maps Application
+
+
 
 
 
