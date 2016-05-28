@@ -53,6 +53,18 @@ Travel Time Estimation of a Path using Sparse Trajectories
 Mining Interesting Locations and Travel Sequences from GPS Trajectories
 
 
+GeoLife: A Collaborative Social Networking Service among User, Location and Trajectory
+
+
+Understanding Mobility Based on GPS Data
+
+
+Shortest path and vehicle trajectory aided map-matching for low frequency GPS data
+
+
+
+
+
 
 
 
