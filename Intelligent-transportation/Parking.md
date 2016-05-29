@@ -14,6 +14,12 @@ A Reservation-based Smart Parking System
 ParkNet: A mobile Sensor Network for Harvesting Real Time Vehicular Parking Information
 
 
+A Smart Parking Lot Management System for Scheduling the Recharging of Electric Vehicles
+
+
+
+
+
 
 
 
