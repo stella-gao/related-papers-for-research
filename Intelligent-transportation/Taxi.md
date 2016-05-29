@@ -29,6 +29,11 @@ An exact algrithm for the multi-trip vehicle routing and scheduling problem of p
 Generic algorithms for management of taxi scheduling
 
 
+Artificial Neural Networks Applied to Taxi Destination Prediction
+
+
+
+
 
 
 
