@@ -23,6 +23,12 @@ CoRide: Carpool Service with a Win-Win fare Model for Large-Scale Taxicab Networ
 Design and Modeling of Real-time Shared-taxi Dispatch Algorithms
 
 
+An exact algrithm for the multi-trip vehicle routing and scheduling problem of pickup and delivery of customers to the airport
+
+
+
+
+
 
 
 
