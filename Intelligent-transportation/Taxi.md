@@ -26,6 +26,9 @@ Design and Modeling of Real-time Shared-taxi Dispatch Algorithms
 An exact algrithm for the multi-trip vehicle routing and scheduling problem of pickup and delivery of customers to the airport
 
 
+Generic algorithms for management of taxi scheduling
+
+
 
 
 
