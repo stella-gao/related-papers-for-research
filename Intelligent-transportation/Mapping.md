@@ -62,6 +62,15 @@ Understanding Mobility Based on GPS Data
 Shortest path and vehicle trajectory aided map-matching for low frequency GPS data
 
 
+Travel Time Estimation of a path using Sparse Trajectories
+
+
+Proactive Vehicular Traffic Re-routing for Lower Travel Time
+
+
+
+
+
 
 
 
