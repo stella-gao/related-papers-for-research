@@ -17,6 +17,12 @@ Where to Find My Next Passenger?
 A Game Theoretic Approach for the Taxi Scheduling Problem with Street Hailing
 
 
+CoRide: Carpool Service with a Win-Win fare Model for Large-Scale Taxicab Networks
+
+
+
+
+
 
 
 
