@@ -17,3 +17,8 @@ Transportation mode-based segmentation and classification of movement trajectori
 Using Mobile Phones to Determine Transportation Modes
 
 
+Topic Modeling of behaviorial modes using sensor data
+
+
+
+
