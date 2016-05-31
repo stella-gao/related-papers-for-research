@@ -17,6 +17,9 @@ ParkNet: A mobile Sensor Network for Harvesting Real Time Vehicular Parking Info
 A Smart Parking Lot Management System for Scheduling the Recharging of Electric Vehicles
 
 
+Park Here! a smart parking system based on smartphones' embedded sensors and short range Communication Technologies
+
+
 
 
 
