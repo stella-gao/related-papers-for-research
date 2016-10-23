@@ -45,13 +45,12 @@
 ```
 
 # Map
-```
-[1]	Feldman, Dan, et al. "idiary: From gps signals to a text-searchable diary."ACM Transactions on Sensor Networks (TOSN) 11.4 (2015): 60.
-[2]	Gao, Ruipeng, et al. "Jigsaw: Indoor floor plan reconstruction via mobile crowdsensing." Proceedings of the 20th annual international conference on Mobile computing and networking. ACM, 2014.
-[3]	Wang, Yin, et al. "CrowdAtlas: self-updating maps for cloud and personal use." Proceeding of the 11th annual international conference on Mobile systems, applications, and services. ACM, 2013.
-[4]	Goswami, Mayank, et al. "Load balanced short path routing in large-scale wireless networks using area-preserving maps." Proceedings of the 15th ACM international symposium on Mobile ad hoc networking and computing. ACM, 2014.
-[5]	Chen, Xi, et al. "Privacy-preserving high-quality map generation with participatory sensing." IEEE INFOCOM 2014-IEEE Conference on Computer Communications. IEEE, 2014.
-```
+1.	Feldman, Dan, et al. "idiary: From gps signals to a text-searchable diary."ACM Transactions on Sensor Networks (TOSN) 11.4 (2015): 60.
+2.	Gao, Ruipeng, et al. "Jigsaw: Indoor floor plan reconstruction via mobile crowdsensing." Proceedings of the 20th annual international conference on Mobile computing and networking. ACM, 2014.
+3.	Wang, Yin, et al. "CrowdAtlas: self-updating maps for cloud and personal use." Proceeding of the 11th annual international conference on Mobile systems, applications, and services. ACM, 2013.
+4.	Goswami, Mayank, et al. "Load balanced short path routing in large-scale wireless networks using area-preserving maps." Proceedings of the 15th ACM international symposium on Mobile ad hoc networking and computing. ACM, 2014.
+5.	Chen, Xi, et al. "Privacy-preserving high-quality map generation with participatory sensing." IEEE INFOCOM 2014-IEEE Conference on Computer Communications. IEEE, 2014.
+
 
 # Vehicle 
 ```
